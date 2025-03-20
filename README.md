@@ -1,2 +1,2 @@
 # Reinforcement-learning
-20 questions game with the Knowledge base method
+20 questions game with the binary Knowledge base method
