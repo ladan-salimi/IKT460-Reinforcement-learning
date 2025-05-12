@@ -24,7 +24,7 @@ This project was made by Ladan Salimi and Dominika I. Kowalska.
   - A **T5-small language model** generates natural language yes/no questions from features.
   - A **guesser network** replaces dot-product similarity, enabling better prediction of the target animal.
 - Retains elimination-based reward strategy for informative question selection.
-- Achieves **~62% win rate** after only **12,000 episodes**, showing improved learning efficiency.
+- Achieves **~62% win rate** after only **15,000 episodes**, showing improved learning efficiency.
 
 ---
 
