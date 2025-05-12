@@ -44,15 +44,6 @@ This project was made by Ladan Salimi and Dominika I. Kowalska.
 
 ---
 
-## Highlights
-- **Custom reward function** promotes elimination-based reasoning.
-- **Penalty for redundant queries** improves efficiency.
-- **T5-small integration** provides lightweight and effective question generation.
-- **Guesser network** enables end-to-end learning.
-- Comparison between REINFORCE and PPO shows the impact of architecture vs. algorithm.
-
----
-
 ## Evaluation
 - Each version includes an evaluation routine to measure agent accuracy.
 - Metrics include win rate (%) and training episode count.
