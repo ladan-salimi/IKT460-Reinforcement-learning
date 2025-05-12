@@ -2,6 +2,10 @@
 
 This project implements a reinforcement learning agent that plays a 20 Questions-style game to guess an animal based on binary features. The agent interacts by asking yes/no questions derived from the feature set and attempts to identify the correct animal using strategic reasoning and reward-based learning.
 
+This is the final project for the course IKT460 Reinforcement Learning at the University of Agder.
+
+This project was made by Ladan Salimi and Dominika I. Kowalska.
+
 ---
 
 ### 1. Version 1 - Baseline REINFORCE
