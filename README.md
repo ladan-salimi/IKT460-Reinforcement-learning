@@ -12,7 +12,7 @@ This project was made by Ladan Salimi and Dominika I. Kowalska.
 **File:** `Version 1_Baseline_Reinforce.ipynb`  
 - Implements the REINFORCE algorithm with a custom elimination-based reward function.
 - Rewards are based on the number of animals eliminated after each question.
-- Repeated questions are penalized.
+- Repeated questions get penalized.
 - Final reward is given for correct or incorrect guesses.
 - Achieves **~40% win rate** after **20,000 episodes**.
 
