@@ -33,7 +33,7 @@ This project was made by Ladan Salimi and Dominika I. Kowalska.
 - Implements the **Proximal Policy Optimization (PPO)** algorithm.
 - Uses the same reward structure and environment setup as previous versions.
 - Offers algorithmic comparison with REINFORCE.
-- Achieves **~35% win rate**, showing moderate improvement over baseline but lower than the improved REINFORCE version.
+- Achieves **~39% win rate**, showing moderate improvement over baseline but lower than the improved REINFORCE version.
 
 ---
 
