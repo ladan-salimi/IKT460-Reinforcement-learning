@@ -44,12 +44,6 @@ This project was made by Ladan Salimi and Dominika I. Kowalska.
 
 ---
 
-## Evaluation
-- Each version includes an evaluation routine to measure agent accuracy.
-- Metrics include win rate (%) and training episode count.
-
----
-
 ## Requirements
 - Python ≥ 3.8  
 - PyTorch  
